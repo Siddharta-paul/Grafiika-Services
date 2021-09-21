@@ -1060,6 +1060,9 @@ padding-bottom: 3rem !important; */
   #footer .footer-top .social-links a {
     margin-bottom: 25px;
   }
+  #intro .intro-img {
+    background-size: contain;
+  }
 }
 #arrow {
   font-size: 90px;
